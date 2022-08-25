@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JUL/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j/pom.xml" />
+        <option value="$PROJECT_DIR$/JCL/pom.xml" />
+        <option value="$PROJECT_DIR$/SLF4J/pom.xml" />
+        <option value="$PROJECT_DIR$/logback/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-log/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
